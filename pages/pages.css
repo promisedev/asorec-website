@@ -1,0 +1,39 @@
+.header_div{width: 100%; height: 200px; background: url("../pages/files_asorec/bg3.png");
+background-repeat: no-repeat; background-size: 100% 100%; }
+.head_title{width: 100%; height: 30%; background: none; top: 60%; position: relative;
+    text-align: center;}
+.head_title span{ font-family: calibri; font-size:28px; color:#ffffff;
+     font-weight: bold;}
+
+.about_container{width: 100%; height: 700px; display: flex;}
+.about_section{width: 70%; background:none; height: 90%; margin-left: 2%;}
+.about_desc{width: 100%; height: auto; background: none;}
+.about_desc h2 p {font-family: calibri; font-size: 16px; color: rgb(44, 41, 41);
+    text-align: justify;}
+
+.about_button{width: 30%; height: 40px; background: rgb(177, 201, 215); color: rgb(34, 40, 52);
+    ; border:none; border-radius: 8px; font-weight: bold; margin-left: 40%;}
+
+    /* ///contact page css */
+    .contact_body{height: 700px; width: 100%; display: flex; justify-content: center;}
+    .contact_element{width: 60%; height: 80%; background: #ffffff; margin-top: 5%; border-radius: 10px;
+     display: flex; justify-content: center; flex-direction: column; align-items: center;}
+    .contact_text{width: 50%; height: 50px; background: none; position: relative; 
+        text-align: center; font-family: arial; font-size: 17px; margin-top: 5%;
+         color: rgb(34,40,52); font-weight: bold;}
+    
+.c_form{ background:none; width: 90%; position: relative; }
+.c_form button{width: 20%; height: 30px; border: 2px solid rgb(34, 40, 52); background: none;
+font-family: arial; font-size: 14px; color: rgb(34, 40, 52); margin-left: 35%; border-radius: 8px;}
+.c_form_div{ width: 100%; height: auto; background: none; margin-top: 30px; margin-bottom: 30px;}
+.c_form_div span{ font-size: 10px; position: relative; color:rgb(4, 20, 39); left:-4%;cursor: pointer;}
+.c_form label{font-family: arial; color: rgb(34, 40, 52);font-size: 13px; font-weight: bold;}
+.c_form input[type="text"]{width: 90%; height: 30px; border:none; border-radius: 3px;
+     background:rgb(217, 221, 223); outline-color: rgb(166, 182, 192); padding: 3px 3px 3px 8px;
+font-size: 15px; font-family: calibri; color:rgb(12, 36, 49);cursor: pointer;}
+.c_form textarea{width: 90%; height: 60px; border:none; border-radius: 3px;
+     background:rgb(217, 221, 223); outline-color: rgb(166, 182, 192); padding: 3px 3px 3px 8px;
+font-size: 15px; font-family: calibri; color:rgb(12, 36, 49);cursor: pointer; resize: none;
+}
+
+
